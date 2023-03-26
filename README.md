@@ -6,7 +6,7 @@
 
 [Odin Recipes](https://www.theodinproject.com/lessons/foundations-recipes) is a simple HTML project made for [The Odin Project](https://www.theodinproject.com).
 
-It contains links to three Filipino-loved recipes.
+It contains links to three Filipino-loved recipes. Check the live preview [here](https://pauloomartin.github.io/OdinProjects-Recipes/).
 
 ## Recipe Page
 
