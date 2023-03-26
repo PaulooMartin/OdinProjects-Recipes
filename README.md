@@ -1,4 +1,15 @@
-# odin-recipes
-Hey! This is my repository for The Odin Project: Recipes Project.
+# Odin Recipes
 
-Try this one out with me: https://www.theodinproject.com/lessons/foundations-recipes !
+<img src="./readme_assets/recipes.png">
+
+## Description
+
+[Odin Recipes](https://www.theodinproject.com/lessons/foundations-recipes) is a simple HTML project made for [The Odin Project](https://www.theodinproject.com).
+
+It contains links to three Filipino-loved recipes.
+
+## Recipe Page
+
+<img src="./readme_assets/recipe-page.png">
+
+Each page contains an image, description, ingredients, and steps for the recipe. The recipe for each food is from [Panlasang Pinoy](https://www.panlasangpinoy.com).
